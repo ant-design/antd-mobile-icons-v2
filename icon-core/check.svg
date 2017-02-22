@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="23px" viewBox="0 0 30 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.0181984036" y="0.0063968073" width="29.962577" height="22.4961688"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check">
+            <g id="Clipped">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="SVGID_1_"></g>
+                <path d="M29.5739111,4.01209806 L13.7617218,20.2450741 L12.0048233,22.0496921 C11.5196237,22.5477537 10.7330901,22.5477537 10.2478905,22.0496921 L8.49095781,20.2450741 L0.434161916,11.9740707 C-0.0510376283,11.4760433 -0.0510376283,10.6684721 0.434161916,10.1699316 L2.19109464,8.36630559 C2.67622577,7.86827822 3.46279361,7.86827822 3.94799316,8.36630559 L11.1257925,15.7365564 L26.0601482,0.404367161 C26.5452794,-0.0936602052 27.3318472,-0.0936602052 27.8170468,0.404367161 L29.5739795,2.20799316 C30.0590764,2.70598632 30.0590764,3.51355758 29.5739111,4.01209806" id="Shape" fill="#1C0A00" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

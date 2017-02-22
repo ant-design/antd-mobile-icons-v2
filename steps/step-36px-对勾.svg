@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>step-36px-对勾</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step-36px-对勾" fill-rule="nonzero" fill="#108EE9">
+            <path d="M18,36 C8.0588745,36 0,27.9411255 0,18 C0,8.0588745 8.0588745,0 18,0 C27.9411255,0 36,8.0588745 36,18 C36,27.9411255 27.9411255,36 18,36 Z M18,33 C26.2842712,33 33,26.2842712 33,18 C33,9.71572875 26.2842712,3 18,3 C9.71572875,3 3,9.71572875 3,18 C3,26.2842712 9.71572875,33 18,33 Z" id="Combined-Shape"></path>
+            <polygon id="Path-3" points="10.0400009 17.4500122 7.97000122 19.6199951 15.7600021 27.1500244 29.1000061 12 26.8800049 10 15.5899963 22.7999878"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="plus" transform="translate(-4.000000, -4.000000)">
+            <rect id="bg" fill-opacity="0" fill="#00AAEE" x="0" y="0" width="44" height="44"></rect>
+            <g id="icon" transform="translate(4.000000, 4.000000)" fill="#4A4A4A">
+                <path d="M16,16 L0.702971779,16 C0.311222076,16 0,16.3119442 0,16.6967468 L0,19.3032532 C0,19.6861267 0.314731186,20 0.702971779,20 L16,20 L16,35.2970282 C16,35.6887779 16.3119442,36 16.6967468,36 L19.3032532,36 C19.6861267,36 20,35.6852688 20,35.2970282 L20,20 L35.2970282,20 C35.6887779,20 36,19.6880558 36,19.3032532 L36,16.6967468 C36,16.3138733 35.6852688,16 35.2970282,16 L20,16 L20,0.702971779 C20,0.311222076 19.6880558,0 19.3032532,0 L16.6967468,0 C16.3138733,0 16,0.314731186 16,0.702971779 L16,16 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

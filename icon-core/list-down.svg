@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="16px" viewBox="0 0 26 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Disclosure Indicator</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI-KIT_基础元件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9.9基础元件" transform="translate(-5753.000000, -8490.000000)" fill="#C7C7CC">
+            <polygon id="Disclosure-Indicator" transform="translate(5766.000000, 8498.000000) rotate(90.000000) translate(-5766.000000, -8498.000000) " points="5760 8485 5758 8487 5769.5 8498 5758 8509 5760 8511 5774 8498"></polygon>
+        </g>
+    </g>
+</svg>

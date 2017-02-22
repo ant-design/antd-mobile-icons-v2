@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>活动指示器</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30,58.3333333 C45.6480679,58.3333333 58.3333333,45.6480679 58.3333333,30 C58.3333333,14.3519321 45.6480679,1.66666667 30,1.66666667 C14.3519321,1.66666667 1.66666667,14.3519321 1.66666667,30 C1.66666667,45.6480679 14.3519321,58.3333333 30,58.3333333 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="56.6666667" height="56.6666667" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="活动指示器" transform="translate(-1.000000, -1.000000)">
+            <rect id="Rectangle-388" fill="#D8D8D8" opacity="0" x="0" y="0" width="60" height="60"></rect>
+            <use id="Oval-4" stroke="#CCCCCC" mask="url(#mask-2)" stroke-width="6" stroke-linecap="round" xlink:href="#path-1"></use>
+            <path d="M56.8966336,31.960144 C57.2651842,24.5223999 55.2386842,17.2611861 50.5039837,12.4080774" id="Oval-4" stroke="#108EE9" stroke-width="3" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
